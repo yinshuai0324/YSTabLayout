@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YSTabLayout">
+        <attr name="ys_margin" format="dimension"></attr>
+        <attr name="ys_defaultoption" format="integer"></attr>
+        <attr name="ys_lineColor" format="color"></attr>
+        <attr name="ys_lineHeight" format="dimension"></attr>
+        <attr name="ys_selectColor" format="color"></attr>
+        <attr name="ys_noSelectColor" format="color"></attr>
+        <attr name="ys_textSize" format="dimension"></attr>
+        <attr name="ys_noSelectTextSize" format="dimension"></attr>
+        <attr name="ys_selectTextSize" format="dimension"></attr>
+        <attr name="ys_backgroundColor" format="color"></attr>
+        <attr name="ys_overstriking" format="boolean"></attr>
+    </declare-styleable>
+</resources>
