@@ -1,6 +1,8 @@
 # **自适应TabLayout**
 **作者:yinshuai**
+
 **邮箱:1317972280@qq.com**
+
 **个人博客:www.yinshuaiblog.com**
 
 ## 效果图
