@@ -45,13 +45,13 @@ public class MainActivity extends AppCompatActivity {
 
 **方法使用说明**
 | 方法名     | 用途   |
-| :-------: | :----:|
+| ------- | ----|
 | setTabView()  |设置Tablayou数据源|
 | setViewPage()  |设置ViewPage|
 
 **属性使用说明**
 | 属性名     | 用途   |
-| :-------: | :----:|
+| ------- | ----|
 | ys_margin|设置外边距(只对左右有效)|
 | ys_lineColor  |设置线的颜色|
 | ys_lineHeight|设置线的高度|
