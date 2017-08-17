@@ -45,10 +45,10 @@ public class MainActivity extends AppCompatActivity {
 
 **方法使用说明**
 
-| `方法名`     | 用途   |
+| 方法名     | 用途   |
 | ------- | ----|
-| `setTabView()`  |**设置Tablayou数据源**|
-| `setViewPage()`  |**设置ViewPage**|
+| setTabView()  |设置Tablayou数据源|
+| setViewPage()  |设置ViewPage|
 
 **属性使用说明**
 
