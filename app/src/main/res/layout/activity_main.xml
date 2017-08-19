@@ -13,7 +13,7 @@
         app:ys_defaultoption="0"
         app:ys_lineColor="#FFC125"
         app:ys_lineHeight="3dp"
-        app:ys_margin="10dp"
+        app:ys_margin="5dp"
         app:ys_noSelectColor="#F8F8FF"
         app:ys_selectColor="#FFC125"
         app:ys_selectTextSize="16dp"
