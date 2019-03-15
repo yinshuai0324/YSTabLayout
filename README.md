@@ -3,7 +3,7 @@
 
 **邮箱:1317972280@qq.com**
 
-**个人博客:www.yinshuaiblog.com**
+**个人博客:www.blog.ooimi.com**
 
 ## 效果图
 ![TabLayout](https://github.com/yinshuaiblog/YSTabLayout/blob/master/YSTablayout.gif)
